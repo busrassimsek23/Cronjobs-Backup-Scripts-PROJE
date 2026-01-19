@@ -1,7 +1,7 @@
 {
   "projectName": "Cron-Backup Manager",
   "category": "Automation & Scheduling",
-  "author": "Senin Adın Soyadın",
+  "author": "Büşra İlayda Şimşek",
   "version": "1.0.0",
   "description": "Linux crontab tabanlı zamanlanmış yedekleme ve görev yönetim aracı",
   "features": [
