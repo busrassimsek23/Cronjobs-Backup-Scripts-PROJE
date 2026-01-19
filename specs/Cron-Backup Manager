@@ -1,0 +1,16 @@
+{
+  "projectName": "Cron-Backup Manager",
+  "category": "Automation & Scheduling",
+  "author": "Senin Adın Soyadın",
+  "version": "1.0.0",
+  "description": "Linux crontab tabanlı zamanlanmış yedekleme ve görev yönetim aracı",
+  "features": [
+    "Crontab ifade çevirici",
+    "Otomatik yedekleme sihirbazı",
+    "Hata ve çıktı log takibi"
+  ],
+  "requirements": {
+    "os": "Ubuntu 22.04",
+    "language": "Python 3.10"
+  }
+}
